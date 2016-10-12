@@ -55,7 +55,7 @@ End of CSS reset
 */
 
 .nav li, .footer li {
-	font-family: arial, sans-serif;
+	font-family: "Times New Roman", Georgia, Serif;
 	color: #404040;
 }
 
